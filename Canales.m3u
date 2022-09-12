@@ -1,173 +1,156 @@
 #EXTM3U
-#EXTINF:-1,24/7 Películas de acción
+#EXTINF:-1 group-title="Popular", 24/7 Películas de acción
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/36251
-#EXTINF:-1,24/7 Películas de niños
+#EXTINF:-1 group-title="Popular", 24/7 Películas de niños
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/36248
-#EXTINF:-1,24/7 | Dinosaurios
+#EXTINF:-1 group-title="Popular", 24/7 | Dinosaurios
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/36125
-#EXTINF:-1,24/7 | JURASSIC PARK
+#EXTINF:-1 group-title="Popular", 24/7 | JURASSIC PARK
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/36220
-#EXTINF:-1,24/7 | Mr Bean
+#EXTINF:-1 group-title="Popular", 24/7 | Mr Bean
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/36227
-#EXTINF:-1,24/7 | SHREK
+#EXTINF:-1 group-title="Popular", 24/7 | SHREK
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/36216
-#EXTINF:-1,24/7 | The Avengers (ES)
+#EXTINF:-1 group-title="Popular", 24/7 | The Avengers (ES)
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/36208
-#EXTINF:-1,A&E
+#EXTINF:-1 group-title="Popular", A&E
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/739
-#EXTINF:-1,A+
+#EXTINF:-1 group-title="Popular", A+
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/14516
-#EXTINF:-1,Las estrellas | FHD
+#EXTINF:-1 group-title="Popular", Las estrellas | FHD
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27687
-#EXTINF:-1,Las Estrellas | HD
+#EXTINF:-1 group-title="Popular", Las Estrellas | HD
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/17571
-#EXTINF:-1,Las Estrellas | opc2
+#EXTINF:-1 group-title="Popular", Las Estrellas | opc2
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/43257
-#EXTINF:-1,Las Estrellas | SD
+#EXTINF:-1 group-title="Popular", Las Estrellas | SD
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/759
-#EXTINF:-1,Azteca 7
+#EXTINF:-1 group-title="Popular", Azteca 7
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/762
-#EXTINF:-1,Azteca 7 (opc2)
+#EXTINF:-1 group-title="Popular", Azteca 7 (opc2)
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/15442
-#EXTINF:-1,Azteca UNO
+#EXTINF:-1 group-title="Popular", Azteca UNO
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/761
-#EXTINF:-1,Azteca Uno (Opc2)
+#EXTINF:-1 group-title="Popular", Azteca Uno (Opc2)
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27558
-#EXTINF:-1,Azteca UNO | SD
-#EXTINF:-1,Canal 5
+#EXTINF:-1 group-title="Popular", Canal 5
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/760
-#EXTINF:-1,Canal 5 (opc2)
+#EXTINF:-1 group-title="Popular", Canal 5 (opc2)
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27685
-#EXTINF:-1,Canal 5 SD
+#EXTINF:-1 group-title="Popular", Canal 5 SD
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27686
-#EXTINF:-1,Cine Latino
+#EXTINF:-1 group-title="Popular", Cine Latino
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27699
-#EXTINF:-1,CINE |Cinema 01
+#EXTINF:-1 group-title="Popular", CINE |Cinema 01
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27677
-#EXTINF:-1,CINE |Cinema 02
+#EXTINF:-1 group-title="Popular", CINE |Cinema 02
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27678
-#EXTINF:-1,CINE |Cinema 03
+#EXTINF:-1 group-title="Popular", CINE |Cinema 03
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27679
-#EXTINF:-1,CINE |Cinema 04
+#EXTINF:-1 group-title="Popular", CINE |Cinema 04
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27680
-#EXTINF:-1,CINE |Cinema 05
+#EXTINF:-1 group-title="Popular", CINE |Cinema 05
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27681
-#EXTINF:-1,CINE |Cinema 06
+#EXTINF:-1 group-title="Popular", CINE |Cinema 06
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27682
-#EXTINF:-1,CINE |Cinema 07
+#EXTINF:-1 group-title="Popular", CINE |Cinema 07
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27683
-#EXTINF:-1,CINE |Cinema 08
+#EXTINF:-1 group-title="Popular", CINE |Cinema 08
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27684
-#EXTINF:-1,Cinecanal
+#EXTINF:-1 group-title="Popular", Cinecanal
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/2926
-#EXTINF:-1,Cinemax
+#EXTINF:-1 group-title="Popular", Cinemax
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/2937
-#EXTINF:-1,ES | AMC
+#EXTINF:-1 group-title="Popular", ES | AMC
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/14534
-#EXTINF:-1,ES | FOX
+#EXTINF:-1 group-title="Popular", ES | FOX
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/14540
-#EXTINF:-1,ES | SYFY
+#EXTINF:-1 group-title="Popular", ES | SYFY
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/14552
-#EXTINF:-1,GOLDEN
+#EXTINF:-1 group-title="Popular", GOLDEN
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/14531
-#EXTINF:-1,GOLDEN EDGE
+#EXTINF:-1 group-title="Popular", GOLDEN EDGE
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/14533
-#EXTINF:-1,GOLDEN PLUS
+#EXTINF:-1 group-title="Popular", GOLDEN PLUS
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/14528
-#EXTINF:-1,Golden Premier
+#EXTINF:-1 group-title="Popular", Golden Premier
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/2946
-#EXTINF:-1,HBO 2
+#EXTINF:-1 group-title="Popular", HBO 2
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/626
-#EXTINF:-1,HBO FAMILY
+#EXTINF:-1 group-title="Popular", HBO FAMILY
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/625
-#EXTINF:-1,HBO Plus
+#EXTINF:-1 group-title="Popular", HBO Plus
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/1
-#EXTINF:-1,HBO POP
+#EXTINF:-1 group-title="Popular", HBO POP
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/11795
-#EXTINF:-1,HBO SIGNATUR
+#EXTINF:-1 group-title="Popular", HBO SIGNATUR
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/14530
-#EXTINF:-1,HBO Xtreme
+#EXTINF:-1 group-title="Popular", HBO Xtreme
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/11796
-#EXTINF:-1,Paramount Channel.
+#EXTINF:-1 group-title="Popular", Paramount Channel.
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/99
-#EXTINF:-1,SPACE
+#EXTINF:-1 group-title="Popular", SPACE
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/2949
-#EXTINF:-1,Star Channel
+#EXTINF:-1 group-title="Popular", Star Channel
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/743
-#EXTINF:-1,STARZ CINEMA
+#EXTINF:-1 group-title="Popular", STARZ CINEMA
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/14413
-#EXTINF:-1,STARZ EDGE
+#EXTINF:-1 group-title="Popular", STARZ EDGE
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/14412
-#EXTINF:-1,STUDIO Universal
+#EXTINF:-1 group-title="Popular", STUDIO Universal
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/2953
-#EXTINF:-1,TNT
+#EXTINF:-1 group-title="Popular", TNT
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/2952
-#EXTINF:-1,SD | CINECANAL
+#EXTINF:-1 group-title="Popular", CINECANAL
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27509
-#EXTINF:-1,SD | CinecanalW
-http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27460
-#EXTINF:-1,SD | CINEMA DINAMITA
-http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27530
-#EXTINF:-1,SD | CINEMAX
+#EXTINF:-1 group-title="Popular", CINEMAX
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27510
-#EXTINF:-1,SD | Cinemax
+#EXTINF:-1 group-title="Popular", Cinemax
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27468
-#EXTINF:-1,SD | CLARO SPORTS
+#EXTINF:-1 group-title="Popular", CLARO SPORTS
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27545
-#EXTINF:-1,SD | Comedy Central
+#EXTINF:-1 group-title="Popular", Comedy Central
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27414
-#EXTINF:-1,SD | DE PELICULA PLUS
+#EXTINF:-1 group-title="Popular", DE PELICULA PLUS
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27506
-#EXTINF:-1,SD | Discovery Channel.
+#EXTINF:-1 group-title="Popular", Discovery Channel.
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27425
-#EXTINF:-1,SD | GOLDEN
+#EXTINF:-1 group-title="Popular", GOLDEN
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27519
-#EXTINF:-1,SD | GOLF CHANNEL MX
-http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27541
-#EXTINF:-1,SD | GOLF CHANNEL SUR
-http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27550
-#EXTINF:-1,SD | GOLTV
-http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27551
-#EXTINF:-1,SD | H2
-http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27474
-#EXTINF:-1,SD | HBO
+#EXTINF:-1 group-title="Popular", HBO
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27445
-#EXTINF:-1,SD | HBO (Opc2)
+#EXTINF:-1 group-title="Popular", HBO (Opc2)
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27521
-#EXTINF:-1,SD | HBO 2
+#EXTINF:-1 group-title="Popular", HBO 2
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27446
-#EXTINF:-1,SD | HBO FAMILY
+#EXTINF:-1 group-title="Popular", HBO FAMILY
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27522
-#EXTINF:-1,SD | HBO Family
+#EXTINF:-1 group-title="Popular", HBO Family
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27448
-#EXTINF:-1,SD | HBO MUNDI
-http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27524
-#EXTINF:-1,SD | HBO Plus
+#EXTINF:-1 group-title="Popular", HBO Plus
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27447
-#EXTINF:-1,SD | HBO Plus (Opc2)
+#EXTINF:-1 group-title="Popular",HBO Plus (Opc2)
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27523
-#EXTINF:-1,SD | HBO SIGNATURE
-http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27507
-#EXTINF:-1,SD | HBO Xtreme
+#EXTINF:-1 group-title="Popular",HBO Xtreme
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27467
-#EXTINF:-1,SD | MC
+#EXTINF:-1 group-title="Popular", MC
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27463
-#EXTINF:-1,SD | MP
+#EXTINF:-1 group-title="Popular", MP
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27453
-#EXTINF:-1,SD | PARAMOUNT CHANNEL
+#EXTINF:-1 group-title="Popular", PARAMOUNT CHANNEL
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27525
-#EXTINF:-1,SD | Paramount Channel
+#EXTINF:-1 group-title="Popular", Paramount Channel
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27455
-#EXTINF:-1,SD | SPACE
+#EXTINF:-1 group-title="Popular", SPACE
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27527
-#EXTINF:-1,SD | Warner
+#EXTINF:-1 group-title="Popular", Warner
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27418
-#EXTINF:-1,SD| AMC
+#EXTINF:-1 group-title="Popular", AMC
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27504
-#EXTINF:-1,SPACE (Opc.2)
+#EXTINF:-1 group-title="Popular", SPACE (Opc.2)
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27461
 
-#EXTINF:-1 group-title="XXX",ADULTOS | BRAZZERS TV
+#EXTINF:-1 group-title="XXX",BRAZZERS TV
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/40574
 #EXTINF:-1 group-title="XXX",HUSTLER HD
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/40581
