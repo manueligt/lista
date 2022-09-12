@@ -149,8 +149,9 @@ http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27418
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27504
 #EXTINF:-1 group-title="Popular", SPACE
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/27461
-#EXTINF:-1 group-title="Popular", Mad Max (2015)
-http://mediax.my.to:8082/streaming912/a6PVqB0WHH/25091.mkv
+
+#EXTINF:-1 group-title="Prueba", Mad Max (2015)
+http://mediax.my.to:8082/movie/streaming912/a6PVqB0WHH/25091.mkv?key=movie
 
 #EXTINF:-1 group-title="XXX",BRAZZERS TV
 http://mediax.my.to:8082/streaming912/a6PVqB0WHH/40574
