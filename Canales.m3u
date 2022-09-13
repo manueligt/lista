@@ -1,358 +1,264 @@
 #EXTM3U
-#EXTINF:-1 group-title="Popular", Las Estrellas HD
-http://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo01.php?c=1784&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Popular", Las Estrellas
-http://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo01.php?c=17&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Popular",  Las Estrellas-2
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=415&pid=415&token=SrRegio&f=.m3u8
-#EXTINF:-1 group-title="Popular", Canal 5
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=20&f=.m3u8
-#EXTINF:-1 group-title="Popular", Canal 5 HD (2)
-http://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=1785&f=.m3u8
-#EXTINF:-1 group-title="Popular",  Canal 5 (Mx)
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=351&pid=351&token=SrRegio&f=.m3u8
-#EXTINF:-1 group-title="Popular", AZTECA UNO
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 group-title="Popular", Azteca Uno
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=7&f=.m3u8
-#EXTINF:-1 group-title="Popular", Azteca Uno (2)
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=27&f=.m3u8
-#EXTINF:-1 group-title="Popular", AZTECA 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 group-title="Popular", AZTECA 7.2
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 group-title="Popular", Azteca 7
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=21&f=.m3u8
-#EXTINF:-1 group-title="Popular", Azteca Clic
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=11&f=.m3u8
-#EXTINF:-1 group-title="Popular", La 2
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:-1 group-title="Popular", ONCE HD 
-http://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=1942&f=.m3u8
-#EXTINF:-1 group-title="Popular", TELEVISA PUEBLA
-http://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=2312&f=.m3u8
-#EXTINF:-1 group-title="Popular", ESTRELLA TV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Clasico", LAS ESTRELLAS
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=17&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Clasico", CANAL 5
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=20&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Clasico", AZTECA 7
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=21&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Clasico", AZTECA UNO
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=27&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Clasico", AZTECA 7 HD 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=317&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Clasico", AZTECA 7 HD (2)
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=322&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Clasico", LAS ESTRELLAS HD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=1784&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Clasico", CANAL 5 HD (2)
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=1785&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Clasico", TELEVISA PUEBLA
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=2312&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Clasico", A+ 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=2316&tokennn=Regio&f=.m3u8  
 
-#EXTINF:-1 group-title="Noticias", Foro TV
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=4&f=.m3u8
-#EXTINF:-1 group-title="Noticias", ADN40
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=40&f=.m3u8
-#EXTINF:-1 group-title="Noticias", ADN40 (2)
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=184&f=.m3u8
-#EXTINF:-1 group-title="Noticias", ADN40 (3)
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 group-title="Noticias", CNN ESP
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=187&f=.m3u8
-#EXTINF:-1 group-title="Noticias", NTN24
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=194&f=.m3u8
-#EXTINF:-1  group-title="Noticias", Foro Tv2
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=300&pid=300&token=SrRegio&f=.m3u8
-#EXTINF:-1 group-title="Noticias", RT ESPAÑOL
-http://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=2091&f=.m3u8
-#EXTINF:-1 group-title="Noticias", Mega Noticias
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=2156&f=.m3u8
-#EXTINF:-1  group-title="Noticias",  Noticias Univision 24/7
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=254&pid=254&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Noticias",  Unicable
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=423&pid=423&token=SrRegio&f=.m3u8
-#EXTINF:-1 group-title="Noticias", Mega Noticias
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=2156&f=.m3u8
-#EXTINF:-1 group-title="Noticias", Imagen Television
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=2298&f=.m3u8
-#EXTINF:-1 group-title="Noticias", El Financiero
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=2167&f=.m3u8
-#EXTINF:-1 group-title="Noticias", Imagen TV
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=1449&f=.m3u8
+#EXTINF:-1 group-title="Nenas", TOONCAST
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=108&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Nenas", DISCOVERY KIDS
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=109&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Nenas", NICK
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=110&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Nenas", DISNEY XD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=111&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Nenas", CARTOON NETWORK
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=112&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Nenas", DISNEY CHANNEL
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=113&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Nenas", BOOMERANG
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=115&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Nenas", BABY TV 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=116&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Nenas", NICK JR
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=117&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Nenas", DISNEY JR
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=118&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Nenas", NICKTOONS SD 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=1708&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Nenas", BABY FIRST
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=1984&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Nenas", NICK 2  
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=2147&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Nenas", NAT GEO KIDS  
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=2373&tokennn=Regio&f=.m3u8
 
-#EXTINF:-1 group-title="Nenas", Tooncast
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=108&f=.m3u8
-#EXTINF:-1 group-title="Nenas", Discovery Kids
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=109&f=.m3u8
-#EXTINF:-1 group-title="Nenas", Cartoon Network
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=112&f=.m3u8
-#EXTINF:-1 group-title="Nenas", Disney Channel
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=113&f=.m3u8
-#EXTINF:-1 group-title="Nenas", Cartoonito
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=115&f=.m3u8
-#EXTINF:-1 group-title="Nenas", BabyTV
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=116&f=.m3u8
-#EXTINF:-1 group-title="Nenas", NickJr
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=117&f=.m3u8
-#EXTINF:-1 group-title="Nenas", Disney Jr
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=118&f=.m3u8
-#EXTINF:-1 group-title="Nenas", Discovery Channel
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=86&f=.m3u8
-#EXTINF:-1 group-title="Nenas", History
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=89&f=.m3u8
-#EXTINF:-1 group-title="Nenas", Nat Geo
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=91&f=.m3u8
-#EXTINF:-1 group-title="Nenas", Lifetime
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=94&f=.m3u8
-#EXTINF:-1 group-title="Nenas", Discovery Theater
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=95&f=.m3u8
-#EXTINF:-1 group-title="Nenas", H&H Discovery
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=96&f=.m3u8
-#EXTINF:-1 group-title="Nenas", Discovery Science (SCI)
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=98&f=.m3u8
-#EXTINF:-1 group-title="Nenas", Discovery World
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=101&f=.m3u8
-#EXTINF:-1 group-title="Nenas", Nick
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=331&f=.m3u8
-#EXTINF:-1 group-title="Nenas", Animal Planet
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=2378&f=.m3u8
-#EXTINF:-1 group-title="Nenas", Nick Music
-http://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=1708&f=.m3u8  
-#EXTINF:-1 group-title="Nenas", Baby First
-http://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=1984&f=.m3u8  
-#EXTINF:-1 group-title="Nenas", Nick Teen  
-http://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=2147&f=.m3u8
-#EXTINF:-1 group-title="Nenas", Discovery ID
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=2376&f=.m3u8
-#EXTINF:-1  group-title="Nenas",  Kids
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=355&pid=355&token=SrRegio&f=.m3u8
-#EXTINF:-1 group-title="Nenas", DISCOVERY TURBO
-http://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=2379&f=.m3u8  
+#EXTINF:-1 group-title="Cine", TBS SD  
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=81&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Cine", DE PELICULA + 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=121&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine", GOLDEN +
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=122&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine", GOLDEN
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=123&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine", GOLDEN EDGE
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=124&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Cine", TNT 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=126&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine", TCM
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=128&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine", SPACE
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=129&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine", AMC 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=131&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine", STUDIO UNIVERSAL
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=132&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine", FXM
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=138&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine", FXM SD 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=332&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Cine", STAR SERIES
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=139&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine", MORBIDO
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=140&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine", STAR MOVIES 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=146&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine", CINECANAL
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=149&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine", CINEMAX 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=158&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Cine", AMC  
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=328&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine", DE PELICULA SD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=335&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine", STAR ACTION
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=336&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Cine", PARAMOUNT CHANNEL 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=1726&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine", STAR CINEMA SD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=1729&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine", STAR CLASSICS SD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=1732&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Cine", AZ CINEMA 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=1787&tokennn=Regio&f=.m3u8 
 
-#EXTINF:-1 group-title="Deportes", PX Sports
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=950&f=.m3u8
-#EXTINF:-1 group-title="Deportes", ESPN 3
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=345&f=.m3u8
-#EXTINF:-1  group-title="Deportes",  Adrenalina Sport
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=393&pid=393&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Deportes",  Afizzionados
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=348&pid=348&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Deportes",  Bein Sports Xtra
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=256&pid=256&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Deportes",  Deportes
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=452&pid=452&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Deportes",  Lo Mejor De La Liga Mx - Prendetv
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=193&pid=193&token=SrRegio&f=.m3u8
-#EXTINF:-1 group-title="Deportes", ESPN Xtra
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=167&f=.m3u8
-#EXTINF:-1 group-title="Deportes", ESPN 2
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=168&f=.m3u8
-#EXTINF:-1 group-title="Deportes", ESPN 
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=169&f=.m3u8
-#EXTINF:-1 group-title="Deportes", Fox Sports 
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=170&f=.m3u8
-#EXTINF:-1 group-title="Deportes", Fox Sports HD
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=171&f=.m3u8
-#EXTINF:-1 group-title="Deportes", Fox Sports 2
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=172&f=.m3u8
-#EXTINF:-1 group-title="Deportes", TUDN
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=174&f=.m3u8
-#EXTINF:-1 group-title="Deportes", Fox Sports 3
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=178&f=.m3u8
-#EXTINF:-1 group-title="Deportes", AyM Sports
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=180&f=.m3u8
-#EXTINF:-1 group-title="Deportes", Claro Sports
-https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
-#EXTINF:-1 group-title="Deportes", Adrenalina Sports
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=1799&f=.m3u8
-#EXTINF:-1 group-title="Deportes", TUDN (2)
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=1975&f=.m3u8
-#EXTINF:-1 group-title="Deportes", Claro Sports HD
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=2564&f=.m3u8
-#EXTINF:-1 group-title="Deportes", Adrenalina Sports HD
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=2404&f=.m3u8
-#EXTINF:-1 group-title="Deportes", U Beat HD
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=3335&f=.m3u8
-#EXTINF:-1 group-title="Deportes", TVC Deportes
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=2157&f=.m3u8
-#EXTINF:-1 group-title="Deportes", LAS Deportes
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=2089&f=.m3u8
+#EXTINF:-1 group-title="Cine2", STAR  
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=46&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Cine2", SONY  
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=48&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine2", WARNER TV  
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=52&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine2", UNIVERSAL
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=57&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine2", SYFY
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=59&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine2", FX
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=60&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine2", A&E
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=62&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine2", AXN
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=64&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine2", TNT SERIES
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=71&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Cine2", STAR LIFE
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=77&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine2", DISTRITO COMEDIA SD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=78&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine2", STAR HD 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=201&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Cine2", WARNER TV HD 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=205&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine2", UNIVERSAL HD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=207&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine2", FX HD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=209&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Cine2", COMEDY CENTRAL
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=340&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Cine2", COMEDY CENTRAL SD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=341&tokennn=Regio&f=.m3u8
 
-#EXTINF:-1  group-title="Comedia",  Durmiendo Con Mi Jefe
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=312&pid=312&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Comedia",  El Privilegio De Mandar
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=313&pid=313&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Comedia",  40 Y 20
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=340&pid=340&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Comedia",  Comedy Tv
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=89&pid=89&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Comedia",  Distrito Comedia
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=405&pid=405&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Comedia",  Failarmy
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=197&pid=197&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Comedia",  Familia P. Luche
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=311&pid=311&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Comedia",  Fun Videos
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=121&pid=121&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Comedia",  Héroes Del Norte
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=323&pid=323&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Comedia",  Papa A Toda Madre
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=336&pid=336&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Comedia",  Vecinos
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=314&pid=314&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Comedia",  Videos Chistosos
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=46&pid=46&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Comedia",  Videos Chistosos 2
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=49&pid=49&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Comedia",  Nosotros Los Guapos
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=310&pid=310&token=SrRegio&f=.m3u8
-#EXTINF:-1 group-title="Comedia", Distrito Comedia
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=78&f=.m3u8
-#EXTINF:-1 group-title="Comedia", Comedy Central
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=340&f=.m3u8
+#EXTINF:-1 group-title="Lista MX", ESPN + 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=167&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Lista MX", ESPN 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=168&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Lista MX", ESPN 2
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=169&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Lista MX", FOX SPORTS
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=170&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Lista MX", FOX SPORTS 2
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=172&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Lista MX", TUDN
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=174&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Lista MX", FOX SPORTS 3 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=178&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Lista MX", ESPN 3 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=345&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Lista MX", TUDN HD (2)
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=1049&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Lista MX", ADRENALINA SPORTS HD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=1799&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Lista MX", CLARO SPORTS HD  
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=2564&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Lista MX", FUEL TV HD 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=2587&tokennn=Regio&f=.m3u8 
 
-#EXTINF:-1  group-title="Peliculas",  Golden Edge
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=407&pid=407&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Peliculas",  Golden Edge Sd
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=410&pid=410&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Peliculas",  Golden Plus
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=414&pid=414&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Peliculas",  Golden South
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=409&pid=409&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Peliculas",  Golden South Sd
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=413&pid=413&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Peliculas",  Cine 1
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=307&pid=307&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Peliculas",  Cine 2
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=308&pid=308&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Peliculas",  Cine 3
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=309&pid=309&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Peliculas",  Cine Club - Prendetv
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=192&pid=192&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Peliculas",  Cine Del Ayer
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=429&pid=429&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Peliculas",  Dpeliculas
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=354&pid=354&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Peliculas",  Dpeliculas +
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=404&pid=404&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Peliculas",  GOlden
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=409&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Peliculas",  GOlden +
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=406&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Peliculas",  GOlden Edge
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=407&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Peliculas",  GOlden Plus
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=410&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Peliculas",  Cine 
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=449&pid=449&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Peliculas",  Cine Sd
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=450&pid=450&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Peliculas",  Cine Sd2
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=451&pid=451&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Peliculas",  Retro Peli
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=304&pid=304&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Peliculas",  My Time Movies
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=261&pid=261&token=SrRegio&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", Star Channel
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=46&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", Sony Channel
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=48&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", Warner
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=52&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", E!
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=55&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", Universal Channel
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=57&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", Syfy
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=59&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", FX
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=60&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", A&E
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=62&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", D Pelicula +
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=121&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", D Pelicula
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=335&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", Golden +
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=122&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", Golden
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=123&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", Golden Edge
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=124&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", TNT
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=126&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", TCM
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=128&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", Space
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=129&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", AMC
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=131&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", Studio Universal
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=132&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", Films&Arts
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=137&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", Morbido
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=140&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", Cinecanal
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=149&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", Cinemax
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=158&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", Star Channel HD
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=201&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", DW
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=203&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", Warner HD
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=205&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", Universal Channel HD
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=207&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", FX HD
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=209&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", Az Clic
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=223&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", AMC
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=328&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", AzCinema
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=1726&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", Studio Universal HD
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=1982&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", Paramount Channel
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=1726&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", TNT Series
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=71&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", A mas (A+)
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=2316&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", A+
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=2278&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", A3Cine
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=3112&f=.m3u8
+#EXTINF:-1 group-title="Varios", DISCOVERY CHANNEL
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=86&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Varios", ANIMAL PLANET
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=88&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Varios", NAT GEO  
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=91&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Varios", NAT GEO WILD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=92&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Varios", MTV LIVE
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=211&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Varios", MTV
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=212&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Varios", MTV HITS SD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=213&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Varios", TELEHIT URBANO SD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=218&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Varios", TELEHIT +
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=220&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Varios", BANDAMAX SD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=221&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Varios", FOROTV HD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=4&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Varios", FOROTV SD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=19&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Varios", ADN40
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=40&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Varios", ADN 40 HD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=184&tokennn=Regio&f=.m3u8  
 
-#EXTINF:-1  group-title="Musica",  Bandamax
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=400&pid=400&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Musica",  Latidos Music
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=257&pid=257&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Musica",  Tele Musica
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=418&pid=418&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Musica",  Tele Musica+
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=419&pid=419&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Musica",  Telehit
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=417&pid=417&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Musica",  Vevo
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=389&pid=389&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Musica",  Vevo
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=388&pid=388&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Musica",  Vivo Play
-http://regioplay.xyz/php/SR_REGIO_509022_/vix.php?c=260&pid=260&token=SrRegio&f=.m3u8
-#EXTINF:-1 group-title="Musica", MTV Live
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=211&f=.m3u8
-#EXTINF:-1 group-title="Musica", MTV
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=212&f=.m3u8
-#EXTINF:-1 group-title="Musica", MTV Hits
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=213&f=.m3u8
-#EXTINF:-1 group-title="Musica", MTV 80s
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=214&f=.m3u8
-#EXTINF:-1 group-title="Musica", TruTv HD
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=215&f=.m3u8
-#EXTINF:-1 group-title="Musica", MTV 00s
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=217&f=.m3u8
-#EXTINF:-1 group-title="Musica", Telehit
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=218&f=.m3u8
-#EXTINF:-1 group-title="Musica", Hola Tv HD
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=219&f=.m3u8
-#EXTINF:-1 group-title="Musica", Telehit +
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=220&f=.m3u8
-#EXTINF:-1 group-title="Musica", Bandamax
-https://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=221&f=.m3u8
-#EXTINF:-1 group-title="Musica", VIDEOROLA
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
-#EXTINF:-1 group-title="Musica", PAKA PAKA
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
-#EXTINF:-1 group-title="Musica", Teleritmo
-http://regioplay.xyz/php/SR_REGIO_509022_/tpnuevo03.php?key=SrRegio&c=1943&f=.m3u8
+#EXTINF:-1  group-title="Vix",  40 Y 20
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=340&pid=340&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Adrenalina Sport
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=393&pid=393&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Afizzionados
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=348&pid=348&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Bandamax
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=400&pid=400&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Bein Sports Xtra
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=256&pid=256&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Canal 5 (Mx)
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=351&pid=351&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Cine 1
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=307&pid=307&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Cine 2
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=308&pid=308&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Cine 3
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=309&pid=309&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Comedy Tv
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=89&pid=89&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Distrito Comedia
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=405&pid=405&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Dpeliculas
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=354&pid=354&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Dpeliculas +
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=404&pid=404&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Foro Tv
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=300&pid=300&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Fun Videos
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=121&pid=121&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Golden Edge
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=407&pid=407&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Golden Edge Sd
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=410&pid=410&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Golden Plus
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=414&pid=414&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Golden South
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=409&pid=409&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Golden South Sd
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=413&pid=413&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Kids
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=355&pid=355&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Las Estrellas
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=415&pid=415&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Lo Mejor De La Liga Mx - Prendetv
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=193&pid=193&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  My Time Movies
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=261&pid=261&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  GOlden
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=409&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  GOlden +
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=406&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  GOlden Edge
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=407&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  GOlden Plus
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=410&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Telehit
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=417&pid=417&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Videos Chistosos
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=46&pid=46&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Videos Chistosos 2
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=49&pid=49&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Vivo Play
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=260&pid=260&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Cine 
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=449&pid=449&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Cine Sd
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=450&pid=450&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Cine Sd
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=451&pid=451&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="Vix",  Deportes
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=452&pid=452&token=SrRegio&f=.m3u8
 
 #EXTINF:-1 group-title="XXX",AdultIPTV.net Anal (720p)
 http://cdn.adultiptv.net/anal.m3u8
@@ -370,37 +276,3 @@ http://cdn.adultiptv.net/pov.m3u8
 http://cdn.adultiptv.net/threesome.m3u8
 #EXTINF:-1 group-title="XXX",AdultIPTV.net Woman (720p)
 http://live.redtraffic.net/woman.m3u8
-#EXTINF:-1 group-title="XXX",Matrix
-http://mediax.my.to:8082/streaming912/a6PVqB0WHH/52494
-#EXTINF:-1 group-title="XXX",Avatar
-http://mediax.my.to:8082/streaming912/a6PVqB0WHH/52521
-
-#EXTINF:-1 group-title="XXX",BRAZZERS TV
-http://mediax.my.to:8082/streaming912/a6PVqB0WHH/40574
-#EXTINF:-1 group-title="XXX",HUSTLER HD
-http://mediax.my.to:8082/streaming912/a6PVqB0WHH/40581
-#EXTINF:-1 group-title="XXX",HUSTLER TV  | SD
-http://mediax.my.to:8082/streaming912/a6PVqB0WHH/40592
-#EXTINF:-1 group-title="XXX",RedTraffic MILF
-http://mediax.my.to:8082/streaming912/a6PVqB0WHH/69
-#EXTINF:-1 group-title="XXX",RedTraffic Pornstar
-http://mediax.my.to:8082/streaming912/a6PVqB0WHH/68
-#EXTINF:-1 group-title="XXX",RedTraffic Teen
-http://mediax.my.to:8082/streaming912/a6PVqB0WHH/65
-#EXTINF:-1 group-title="XXX",XXX:EROTIC_2 LA6
-http://mediax.my.to:8082/streaming912/a6PVqB0WHH/40781
-#EXTINF:-1 group-title="XXX",02 Thai TukTuk PORN
-http://mediax.my.to:8082/streaming912/a6PVqB0WHH/52364
-#EXTINF:-1 group-title="XXX",03 BRAZZERS mandy muse
-http://mediax.my.to:8082/streaming912/a6PVqB0WHH/52365
-#EXTINF:-1 group-title="XXX",32 BRAZZERS kimber lauren
-http://mediax.my.to:8082/streaming912/a6PVqB0WHH/52435
-#EXTINF:-1 group-title="XXX",Lucy-Cat - Fanfick Extasia Anal Spezial 2017
-http://mediax.my.to:8082/streaming912/a6PVqB0WHH/52509
-#EXTINF:-1 group-title="XXX",Pirata (XXX)
-http://mediax.my.to:8082/streaming912/a6PVqB0WHH/52535
-#EXTINF:-1 group-title="XXX",XXXMas 2019 Party - 10 Versus 10 Anal Debauchery - Drinks Included b
-http://mediax.my.to:8082/streaming912/a6PVqB0WHH/52529
-#EXTINF:-1 group-title="XXX",XXX:EROTIC_3 LA1
-http://mediax.my.to:8082/streaming912/a6PVqB0WHH/40782
-
