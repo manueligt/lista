@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="MX || AyM Sports HD" tvg-logo="https://i.imgur.com/89YGlxB.png" group-title="MEXICO",AyM Sports HD
-http://higherpro.xyz:8080/9h2ium36/c7v8jy83/51288
-#EXTINF:-1 tvg-id="" tvg-name="MX || AZ Corazon HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png" group-title="MEXICO",AZ Corazon HD
-http://higherpro.xyz:8080/9h2ium36/c7v8jy83/51336
-#EXTINF:-1 tvg-id="" tvg-name="MX || Az Corazón HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" group-title="MEXICO",Az Corazón HD
-http://higherpro.xyz:8080/9h2ium36/c7v8jy83/40110
-#EXTINF:-1 tvg-id="" tvg-name="MX || Az Corazón SD" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" group-title="MEXICO",Az Corazón SD
-http://higherpro.xyz:8080/9h2ium36/c7v8jy83/40109
-#EXTINF:-1 tvg-id="" tvg-name="MX || Az Mundo HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="MEXICO",Az Mundo HD
-http://higherpro.xyz:8080/9h2ium36/c7v8jy83/40105
-#EXTINF:-1 tvg-id="" tvg-name="MX || Az Mundo SD" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="MEXICO",Az Mundo SD
-http://higherpro.xyz:8080/9h2ium36/c7v8jy83/40104
 #EXTINF:-1 tvg-id="" tvg-name="MX || Azteca 7 HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="MEXICO",Azteca 7 HD
 http://higherpro.xyz:8080/9h2ium36/c7v8jy83/51370
 #EXTINF:-1 tvg-id="" tvg-name="MX || Azteca 7 HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="MEXICO",Azteca 7 HD
@@ -19,8 +7,6 @@ http://higherpro.xyz:8080/9h2ium36/c7v8jy83/40095
 http://higherpro.xyz:8080/9h2ium36/c7v8jy83/51377
 #EXTINF:-1 tvg-id="" tvg-name="MX || Azteca 7 SD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="MEXICO",Azteca 7 SD
 http://higherpro.xyz:8080/9h2ium36/c7v8jy83/51392
-#EXTINF:-1 tvg-id="" tvg-name="MX || Azteca Mundo SD" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="MEXICO",Azteca Mundo SD
-http://higherpro.xyz:8080/9h2ium36/c7v8jy83/51209
 #EXTINF:-1 tvg-id="" tvg-name="MX || Azteca UNO HD" tvg-logo="https://i.imgur.com/5FkjvqF.jpg" group-title="MEXICO",Azteca UNO HD
 http://higherpro.xyz:8080/9h2ium36/c7v8jy83/51380
 #EXTINF:-1 tvg-id="" tvg-name="MX || Azteca Uno HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Azteca_UNO_logo_2020.webp" group-title="MEXICO",Azteca Uno HD
@@ -49,10 +35,6 @@ http://higherpro.xyz:8080/9h2ium36/c7v8jy83/51171
 http://higherpro.xyz:8080/9h2ium36/c7v8jy83/51395
 #EXTINF:-1 tvg-id="" tvg-name="MX || Las Estrellas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",Las Estrellas HD
 http://higherpro.xyz:8080/9h2ium36/c7v8jy83/40115
-#EXTINF:-1 tvg-id="" tvg-name="MX || Morbido TV HD" tvg-logo="https://i.imgur.com/wcIcl0U.jpg" group-title="MEXICO",Morbido TV HD
-http://higherpro.xyz:8080/9h2ium36/c7v8jy83/51293
-#EXTINF:-1 tvg-id="" tvg-name="MX || Star Tve HD" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2016/01/Star-HD.jpg" group-title="MEXICO",Star Tve HD
-http://higherpro.xyz:8080/9h2ium36/c7v8jy83/51341
 #EXTINF:-1 tvg-id="" tvg-name="MX || WARNER HD" tvg-logo="https://i.imgur.com/Me5uVci.jpg" group-title="MEXICO",WARNER HD
 http://higherpro.xyz:8080/9h2ium36/c7v8jy83/51248
 
@@ -215,16 +197,6 @@ http://higherpro.xyz:8080/9h2ium36/c7v8jy83/13767
 http://higherpro.xyz:8080/9h2ium36/c7v8jy83/13832
 #EXTINF:-1 tvg-id="" tvg-name="CINE| DE PELICULA CLASICO" tvg-logo="https://i.ibb.co/Q8tsvCQ/DEPELICULACLASICO.jpg" group-title="CINE",DE PELICULA CLASICO
 http://higherpro.xyz:8080/9h2ium36/c7v8jy83/13833
-#EXTINF:-1 tvg-id="" tvg-name="CINE| EURO CHANNEL" tvg-logo="https://i.ibb.co/CBQWKfh/EUROPACHANNEL.jpg" group-title="CINE",EURO CHANNEL
-http://higherpro.xyz:8080/9h2ium36/c7v8jy83/13825
-#EXTINF:-1 tvg-id="" tvg-name="CINE| EURO CHANNEL" tvg-logo="https://i.ibb.co/CBQWKfh/EUROPACHANNEL.jpg" group-title="CINE",EURO CHANNEL
-http://higherpro.xyz:8080/9h2ium36/c7v8jy83/13826
-#EXTINF:-1 tvg-id="" tvg-name="CINE| EURO CHANNEL" tvg-logo="https://i.ibb.co/CBQWKfh/EUROPACHANNEL.jpg" group-title="CINE",EURO CHANNEL
-http://higherpro.xyz:8080/9h2ium36/c7v8jy83/13827
-#EXTINF:-1 tvg-id="" tvg-name="CINE| EUROPA EUROPA" tvg-logo="https://i.ibb.co/cCN9PXW/EUROPAEUROPA.jpg" group-title="CINE",EUROPA EUROPA
-http://higherpro.xyz:8080/9h2ium36/c7v8jy83/13828
-#EXTINF:-1 tvg-id="" tvg-name="CINE| Europa Europa" tvg-logo="https://i.ibb.co/cCN9PXW/EUROPAEUROPA.jpg" group-title="CINE",Europa Europa
-http://higherpro.xyz:8080/9h2ium36/c7v8jy83/13829
 #EXTINF:-1 tvg-id="" tvg-name="CINE| PARAMOUNT" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg" group-title="CINE",PARAMOUNT
 http://higherpro.xyz:8080/9h2ium36/c7v8jy83/13814
 #EXTINF:-1 tvg-id="" tvg-name="CINE| Paramount Channel" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg" group-title="CINE",Paramount Channel
