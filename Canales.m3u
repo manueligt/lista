@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="A + HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/1200px-Logo_a%2B_%28canal%29.svg.png" group-title="MEXICO",A + HD (MX)
-http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/871204
 #EXTINF:-1 tvg-id="" tvg-name="A&E (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/AE.png" group-title="MEXICO",A&E (MX)
 http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869557
 #EXTINF:-1 tvg-id="" tvg-name="ADN 40 (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/adn40.png" group-title="MEXICO",ADN 40 (MX)
@@ -249,3 +247,98 @@ http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872335
 http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869655
 #EXTINF:-1 tvg-id="" tvg-name="ZooMoo (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/zoomoo.png" group-title="MEXICO",ZooMoo (MX)
 http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869656
+
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="FX FHD (LAT)" tvg-logo="http://latinovodplus1.xyz/logos/LATINOS_BAJA/fx.png" group-title="PELICULAS & SERIES",FX FHD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834537
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="FX HD (LAT)" tvg-logo="http://latinovodplus1.xyz/logos/LATINOS_BAJA/fx.png" group-title="PELICULAS & SERIES",FX HD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834536
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="FX SD (LAT)" tvg-logo="http://latinovodplus1.xyz/logos/LATINOS_BAJA/fx.png" group-title="PELICULAS & SERIES",FX SD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834535
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="Glitz SD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/Glitz.png" group-title="CULTURALES & VARIEDADES",Glitz SD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834538
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="Golden Plus FHD (LAT)" tvg-logo="" group-title="PELICULAS & SERIES",Golden Plus FHD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/835321
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="Golden Plus HD (LAT)" tvg-logo="" group-title="PELICULAS & SERIES",Golden Plus HD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/835320
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="Golden Plus SD (LAT)" tvg-logo="" group-title="PELICULAS & SERIES",Golden Plus SD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/835319
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="Golden Premium FHD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/golden_premier.png" group-title="PELICULAS & SERIES",Golden Premium FHD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834546
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="Golden Premium HD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/golden_premier.png" group-title="PELICULAS & SERIES",Golden Premium HD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834545
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="Golden Premium SD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/golden_premier.png" group-title="PELICULAS & SERIES",Golden Premium SD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834544
+#EXTINF:-1 tvg-id="" tvg-name="Golden SD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/Golden.png" group-title="PELICULAS & SERIES",Golden SD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834541
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 FHD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo2.png" group-title="PELICULAS & SERIES",HBO 2 FHD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834555
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 HD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo2.png" group-title="PELICULAS & SERIES",HBO 2 HD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834554
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 SD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo2.png" group-title="PELICULAS & SERIES",HBO 2 SD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834553
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family FHD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_family.png" group-title="PELICULAS & SERIES",HBO Family FHD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834558
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family HD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_family.png" group-title="PELICULAS & SERIES",HBO Family HD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834557
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family SD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_family.png" group-title="PELICULAS & SERIES",HBO Family SD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834556
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo.png" group-title="PELICULAS & SERIES",HBO FHD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834552
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo.png" group-title="PELICULAS & SERIES",HBO HD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834551
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO Mundi FHD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_mundi.png" group-title="PELICULAS & SERIES",HBO Mundi FHD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834561
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO Mundi HD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_mundi.png" group-title="PELICULAS & SERIES",HBO Mundi HD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834560
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO Mundi SD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_mundi.png" group-title="PELICULAS & SERIES",HBO Mundi SD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834559
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO Plus FHD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_plus.png" group-title="PELICULAS & SERIES",HBO Plus FHD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834564
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO Plus HD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_plus.png" group-title="PELICULAS & SERIES",HBO Plus HD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834563
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO Plus SD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_plus.png" group-title="PELICULAS & SERIES",HBO Plus SD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834562
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO POP FHD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_pop.png" group-title="PELICULAS & SERIES",HBO POP FHD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834567
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO POP HD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_pop.png" group-title="PELICULAS & SERIES",HBO POP HD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834566
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO POP SD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_pop.png" group-title="PELICULAS & SERIES",HBO POP SD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834565
+#EXTINF:-1 tvg-id="" tvg-name="HBO SD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo.png" group-title="PELICULAS & SERIES",HBO SD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834550
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="HBO Signature FHD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_signature.png" group-title="PELICULAS & SERIES",HBO Signature FHD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834570
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="HBO Signature HD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_signature.png" group-title="PELICULAS & SERIES",HBO Signature HD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834569
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="HBO Signature SD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_signature.png" group-title="PELICULAS & SERIES",HBO Signature SD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834568
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme FHD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_xtreme.png" group-title="PELICULAS & SERIES",HBO Xtreme FHD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834573
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme HD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_xtreme.png" group-title="PELICULAS & SERIES",HBO Xtreme HD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834572
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme SD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_xtreme.png" group-title="PELICULAS & SERIES",HBO Xtreme SD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834571
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="Paramount Channel FHD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/paramount_channel.png" group-title="PELICULAS & SERIES",Paramount Channel FHD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834654
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="Paramount Channel HD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/paramount_channel.png" group-title="PELICULAS & SERIES",Paramount Channel HD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834653
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="Paramount Channel SD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/paramount_channel.png" group-title="PELICULAS & SERIES",Paramount Channel SD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834652
+#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="Sony FHD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/sony.png" group-title="PELICULAS & SERIES",Sony FHD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834663
+#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="Sony HD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/sony.png" group-title="PELICULAS & SERIES",Sony HD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834662
+#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="Sony SD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/sony.png" group-title="PELICULAS & SERIES",Sony SD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834661
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="Space FHD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/space.png" group-title="PELICULAS & SERIES",Space FHD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834666
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="Space HD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/space.png" group-title="PELICULAS & SERIES",Space HD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834665
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="Space SD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/space.png" group-title="PELICULAS & SERIES",Space SD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834664
+#EXTINF:-1 tvg-id="fox.ar" tvg-name="Star Channel FHD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/start_channel.png" group-title="PELICULAS & SERIES",Star Channel FHD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834669
+#EXTINF:-1 tvg-id="fox.ar" tvg-name="Star Channel HD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/start_channel.png" group-title="PELICULAS & SERIES",Star Channel HD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834668
+#EXTINF:-1 tvg-id="fox.ar" tvg-name="Star Channel SD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/start_channel.png" group-title="PELICULAS & SERIES",Star Channel SD (LAT)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/834667
