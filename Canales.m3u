@@ -1,262 +1,251 @@
 #EXTM3U
-#EXTINF:-1 group-title="Clasico", LAS ESTRELLAS
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=17&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Clasico", CANAL 5
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=20&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Clasico", AZTECA 7
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=21&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Clasico", AZTECA UNO
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=27&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Clasico", AZTECA 7 HD 
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=317&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Clasico", AZTECA 7 HD (2)
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=322&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Clasico", LAS ESTRELLAS HD
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=1784&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Clasico", CANAL 5 HD (2)
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=1785&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Clasico", TELEVISA PUEBLA
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=2312&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Clasico", A+ 
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=2316&tokennn=Regio&f=.m3u8  
-
-#EXTINF:-1 group-title="Nenas", TOONCAST
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=108&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Nenas", DISCOVERY KIDS
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=109&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Nenas", NICK
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=110&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Nenas", DISNEY XD
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=111&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Nenas", CARTOON NETWORK
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=112&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Nenas", DISNEY CHANNEL
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=113&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Nenas", BOOMERANG
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=115&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Nenas", BABY TV 
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=116&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Nenas", NICK JR
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=117&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Nenas", DISNEY JR
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=118&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Nenas", NICKTOONS SD 
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=1708&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Nenas", BABY FIRST
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=1984&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Nenas", NICK 2  
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=2147&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Nenas", NAT GEO KIDS  
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=2373&tokennn=Regio&f=.m3u8
-
-#EXTINF:-1 group-title="Cine", TBS SD  
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=81&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Cine", DE PELICULA + 
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=121&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine", GOLDEN +
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=122&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine", GOLDEN
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=123&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine", GOLDEN EDGE
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=124&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Cine", TNT 
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=126&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine", TCM
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=128&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine", SPACE
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=129&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine", AMC 
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=131&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine", STUDIO UNIVERSAL
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=132&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine", FXM
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=138&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine", FXM SD 
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=332&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Cine", STAR SERIES
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=139&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine", MORBIDO
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=140&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine", STAR MOVIES 
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=146&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine", CINECANAL
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=149&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine", CINEMAX 
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=158&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Cine", AMC  
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=328&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine", DE PELICULA SD
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=335&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine", STAR ACTION
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=336&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Cine", PARAMOUNT CHANNEL 
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=1726&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine", STAR CINEMA SD
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=1729&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine", STAR CLASSICS SD
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=1732&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Cine", AZ CINEMA 
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=1787&tokennn=Regio&f=.m3u8 
-
-#EXTINF:-1 group-title="Cine2", STAR  
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=46&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Cine2", SONY  
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=48&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine2", WARNER TV  
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=52&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine2", UNIVERSAL
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=57&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine2", SYFY
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=59&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine2", FX
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=60&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine2", A&E
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=62&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine2", AXN
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=64&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine2", TNT SERIES
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=71&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Cine2", STAR LIFE
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=77&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine2", DISTRITO COMEDIA SD
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=78&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine2", STAR HD 
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=201&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Cine2", WARNER TV HD 
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=205&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine2", UNIVERSAL HD
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=207&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine2", FX HD
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=209&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Cine2", COMEDY CENTRAL
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=340&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Cine2", COMEDY CENTRAL SD
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=341&tokennn=Regio&f=.m3u8
-
-#EXTINF:-1 group-title="Lista MX", ESPN + 
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=167&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", ESPN 
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=168&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", ESPN 2
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=169&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", FOX SPORTS
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=170&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", FOX SPORTS 2
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=172&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", TUDN
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=174&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", FOX SPORTS 3 
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=178&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", ESPN 3 
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=345&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", TUDN HD (2)
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=1049&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", ADRENALINA SPORTS HD
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=1799&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", CLARO SPORTS HD  
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=2564&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", FUEL TV HD 
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=2587&tokennn=Regio&f=.m3u8 
-
-#EXTINF:-1 group-title="Varios", DISCOVERY CHANNEL
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=86&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Varios", ANIMAL PLANET
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=88&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Varios", NAT GEO  
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=91&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Varios", NAT GEO WILD
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=92&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Varios", MTV LIVE
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=211&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Varios", MTV
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=212&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Varios", MTV HITS SD
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=213&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Varios", TELEHIT URBANO SD
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=218&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Varios", TELEHIT +
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=220&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Varios", BANDAMAX SD
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=221&tokennn=Regio&f=.m3u8  
-#EXTINF:-1 group-title="Varios", FOROTV HD
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=4&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Varios", FOROTV SD
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=19&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Varios", ADN40
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=40&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Varios", ADN 40 HD
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=184&tokennn=Regio&f=.m3u8  
-
-#EXTINF:-1  group-title="Vix",  40 Y 20
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=340&pid=340&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Adrenalina Sport
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=393&pid=393&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Afizzionados
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=348&pid=348&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Bandamax
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=400&pid=400&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Bein Sports Xtra
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=256&pid=256&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Canal 5 (Mx)
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=351&pid=351&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Cine 1
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=307&pid=307&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Cine 2
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=308&pid=308&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Cine 3
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=309&pid=309&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Comedy Tv
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=89&pid=89&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Distrito Comedia
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=405&pid=405&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Dpeliculas
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=354&pid=354&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Dpeliculas +
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=404&pid=404&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Foro Tv
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=300&pid=300&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Fun Videos
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=121&pid=121&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Golden Edge
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=407&pid=407&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Golden Edge Sd
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=410&pid=410&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Golden Plus
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=414&pid=414&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Golden South
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=409&pid=409&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Golden South Sd
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=413&pid=413&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Kids
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=355&pid=355&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Las Estrellas
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=415&pid=415&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Lo Mejor De La Liga Mx - Prendetv
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=193&pid=193&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  My Time Movies
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=261&pid=261&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  GOlden
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=409&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  GOlden +
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=406&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  GOlden Edge
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=407&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  GOlden Plus
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=410&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Telehit
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=417&pid=417&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Videos Chistosos
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=46&pid=46&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Videos Chistosos 2
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=49&pid=49&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Vivo Play
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=260&pid=260&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Cine 
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=449&pid=449&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Cine Sd
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=450&pid=450&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Cine Sd
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=451&pid=451&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Deportes
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=452&pid=452&token=SrRegio&f=.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="A + HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/1200px-Logo_a%2B_%28canal%29.svg.png" group-title="MEXICO",A + HD (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/871204
+#EXTINF:-1 tvg-id="" tvg-name="A&E (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/AE.png" group-title="MEXICO",A&E (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869557
+#EXTINF:-1 tvg-id="" tvg-name="ADN 40 (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/adn40.png" group-title="MEXICO",ADN 40 (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869558
+#EXTINF:-1 tvg-id="" tvg-name="Adrenalina Sports Network (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/adrenalina_sports_network.png" group-title="MEXICO",Adrenalina Sports Network (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869559
+#EXTINF:-1 tvg-id="" tvg-name="Afizzionados (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/afizzionados.png" group-title="MEXICO",Afizzionados (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869560
+#EXTINF:-1 tvg-id="" tvg-name="AMC (MX)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica.png" group-title="MEXICO",AMC (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869561
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/animalplanet.png" group-title="MEXICO",Animal Planet (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869562
+#EXTINF:-1 tvg-id="" tvg-name="AXN (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/axn.png" group-title="MEXICO",AXN (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869563
+#EXTINF:-1 tvg-id="" tvg-name="AYM Sports (MX)" tvg-logo="http://latinovodplus1.xyz/logos/LATINOS_BAJA/AYM_sports.png" group-title="MEXICO",AYM Sports (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869564
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 (MX)" tvg-logo="http://latinovodplus1.xyz/logos/LATINOS_BAJA/azteca_7.png" group-title="MEXICO",Azteca 7 (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869565
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Cinema (MX)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv_azteca_cinema.png" group-title="MEXICO",Azteca Cinema (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869566
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Click (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/aztecaclick.png" group-title="MEXICO",Azteca Click (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869567
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Corazon (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/azcorazon.png" group-title="MEXICO",Azteca Corazon (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869568
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Mundo (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/azmundo.png" group-title="MEXICO",Azteca Mundo (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869570
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno HD (MX)" tvg-logo="http://latinovodplus1.xyz/logos/LATINOS_BAJA/azteca_uno.png" group-title="MEXICO",Azteca Uno HD (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869571
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno. (MX)" tvg-logo="http://latinovodplus1.xyz/logos/LATINOS_BAJA/azteca_uno.png" group-title="MEXICO",Azteca Uno. (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/880128
+#EXTINF:-1 tvg-id="" tvg-name="Baby First (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/Baby_TV.png" group-title="MEXICO",Baby First (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869572
+#EXTINF:-1 tvg-id="" tvg-name="Banda Max (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/bandamax.png" group-title="MEXICO",Banda Max (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869573
+#EXTINF:-1 tvg-id="" tvg-name="BitMe (MX)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="MEXICO",BitMe (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869574
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 Cancun (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/canal10.png" group-title="MEXICO",Canal 10 Cancun (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869579
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/canal4-.png" group-title="MEXICO",Canal 4 (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869575
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 FHD (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/canal5.png" group-title="MEXICO",Canal 5 FHD (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869576
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 SD (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/canal5.png" group-title="MEXICO",Canal 5 SD (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869577
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6 (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/canal6.png" group-title="MEXICO",Canal 6 (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869578
+#EXTINF:-1 tvg-id="" tvg-name="Canal 66 (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/canal66.png" group-title="MEXICO",Canal 66 (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869580
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9 (MX)" tvg-logo="http://latinovodplus1.xyz/logos/LATINOS_BAJA/cartoonito.png" group-title="MEXICO",Canal 9 (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872330
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9. (MX)" tvg-logo="http://latinovodplus1.xyz/logos/LATINOS_BAJA/cinecanal.png" group-title="MEXICO",Canal 9. (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872331
+#EXTINF:-1 tvg-id="" tvg-name="Canal Infantil (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/canalinfantil.png" group-title="MEXICO",Canal Infantil (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869582
+#EXTINF:-1 tvg-id="" tvg-name="Canal Once (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/canal11.png" group-title="MEXICO",Canal Once (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869583
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/carton_network1.png" group-title="MEXICO",Cartoon Network (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869584
+#EXTINF:-1 tvg-id="" tvg-name="Cine Canal. (MX)" tvg-logo="" group-title="MEXICO",Cine Canal. (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872332
+#EXTINF:-1 tvg-id="" tvg-name="Cine Dinamita (MX)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinema_dinamita.png" group-title="MEXICO",Cine Dinamita (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872337
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax (MX)" tvg-logo="http://latinovodplus1.xyz/logos/LATINOS_BAJA/cinemax_latinoamerica.png" group-title="MEXICO",Cinemax (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872333
+#EXTINF:-1 tvg-id="" tvg-name="CNN (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/cnn_espanol.png" group-title="MEXICO",CNN (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869585
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/comedy_central.png" group-title="MEXICO",Comedy Central (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869586
+#EXTINF:-1 tvg-id="" tvg-name="D Pelicula (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/depelicula.png" group-title="MEXICO",D Pelicula (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869587
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel (MX)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/discovery_channel.png" group-title="MEXICO",Discovery Channel (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872412
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/discovery_home_and_health_latinoamerica.png" group-title="MEXICO",Discovery H&H (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869588
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/discovery_kids.png" group-title="MEXICO",Discovery Kids (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869589
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science (MX)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/discovery_science.png" group-title="MEXICO",Discovery Science (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872414
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/discovery_theater.png" group-title="MEXICO",Discovery Theater (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869590
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/discovery_turbo.png" group-title="MEXICO",Discovery Turbo (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869591
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World (MX)" tvg-logo="http://latinovodplus1.xyz/logos/LATINOS_BAJA/discovery_world.png" group-title="MEXICO",Discovery World (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872415
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel (MX)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/disney_channel.png" group-title="MEXICO",Disney Channel (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872341
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/comedycentral.png" group-title="MEXICO",Distrito Comedia (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869592
+#EXTINF:-1 tvg-id="" tvg-name="DocuBox (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/docubox.png" group-title="MEXICO",DocuBox (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869593
+#EXTINF:-1 tvg-id="" tvg-name="Europa Europa (MX)" tvg-logo="" group-title="MEXICO",Europa Europa (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/874230
+#EXTINF:-1 tvg-id="" tvg-name="Fashion Box (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/fashionbox.webp" group-title="MEXICO",Fashion Box (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869594
+#EXTINF:-1 tvg-id="" tvg-name="FastBox & Fun (MX)" tvg-logo="" group-title="MEXICO",FastBox & Fun (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869595
+#EXTINF:-1 tvg-id="" tvg-name="FightBox (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/FightBox.png" group-title="MEXICO",FightBox (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869596
+#EXTINF:-1 tvg-id="" tvg-name="Film & Art (MX)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/film_arts.png" group-title="MEXICO",Film & Art (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872416
+#EXTINF:-1 tvg-id="" tvg-name="Film Box ArtHouse (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/FilmBoxArtHouse.png" group-title="MEXICO",Film Box ArtHouse (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869597
+#EXTINF:-1 tvg-id="" tvg-name="Food Network (MX)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/food_network.png" group-title="MEXICO",Food Network (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872423
+#EXTINF:-1 tvg-id="" tvg-name="Foro TV (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/forotv1.png" group-title="MEXICO",Foro TV (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869598
+#EXTINF:-1 tvg-id="" tvg-name="FX (MX)" tvg-logo="" group-title="MEXICO",FX (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872334
+#EXTINF:-1 tvg-id="" tvg-name="Galavision (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/galavision.png" group-title="MEXICO",Galavision (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869599
+#EXTINF:-1 tvg-id="" tvg-name="GameToon G (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/gametoon.png" group-title="MEXICO",GameToon G (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869600
+#EXTINF:-1 tvg-id="" tvg-name="Glitz (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/Glitz.png" group-title="MEXICO",Glitz (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869602
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/GoldenEdge.png" group-title="MEXICO",Golden Edge (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869603
+#EXTINF:-1 tvg-id="" tvg-name="Golden Plus (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/goldenplus.webp" group-title="MEXICO",Golden Plus (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869604
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier (MX)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier.png" group-title="MEXICO",Golden Premier (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872338
+#EXTINF:-1 tvg-id="" tvg-name="HBO (MX)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica.png" group-title="MEXICO",HBO (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872339
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 (MX)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo2.png" group-title="MEXICO",HBO 2 (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872342
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family (MX)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_family.png" group-title="MEXICO",HBO Family (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872344
+#EXTINF:-1 tvg-id="" tvg-name="HBO mundi (MX)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_mundi.png" group-title="MEXICO",HBO mundi (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872417
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus (MX)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_plus.png" group-title="MEXICO",HBO Plus (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872418
+#EXTINF:-1 tvg-id="" tvg-name="HBO pop (MX)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_pop.png" group-title="MEXICO",HBO pop (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872419
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme (MX)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_xtreme.png" group-title="MEXICO",HBO Xtreme (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872420
+#EXTINF:-1 tvg-id="" tvg-name="HGTV (MX)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hgtv.png" group-title="MEXICO",HGTV (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869605
+#EXTINF:-1 tvg-id="" tvg-name="History Channel (MX)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/history_channel.png" group-title="MEXICO",History Channel (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872343
+#EXTINF:-1 tvg-id="" tvg-name="HTV (MX)" tvg-logo="http://caxpar.com:8080/logos/MEXICO/htv.png" group-title="MEXICO",HTV (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869606
+#EXTINF:-1 tvg-id="" tvg-name="I.Sat (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/i_sat.png" group-title="MEXICO",I.Sat (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869607
+#EXTINF:-1 tvg-id="" tvg-name="I24 News (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/I24%20News.png" group-title="MEXICO",I24 News (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869608
+#EXTINF:-1 tvg-id="" tvg-name="Ibero TV (MX)" tvg-logo="" group-title="MEXICO",Ibero TV (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/876902
+#EXTINF:-1 tvg-id="" tvg-name="Image TV (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/ImageTV.png" group-title="MEXICO",Image TV (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869609
+#EXTINF:-1 tvg-id="" tvg-name="Ingenio TV (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/ingenio_tv.png" group-title="MEXICO",Ingenio TV (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869610
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/investigation_discovery_latinoamerica.png" group-title="MEXICO",Investigation Discovery (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869611
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/kanalDdrama.webp" group-title="MEXICO",Kanal D Drama (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869612
+#EXTINF:-1 tvg-id="AMCMexico.mx" tvg-name="Las Estrellas (MX)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/las_estrellas.png" group-title="MEXICO",Las Estrellas (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869581
+#EXTINF:-1 tvg-id="AMCMexico.mx" tvg-name="Las Estrellas. (MX)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/las_estrellas.png" group-title="MEXICO",Las Estrellas. (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869613
+#EXTINF:-1 tvg-id="" tvg-name="lifetime (MX)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/lifetime.png" group-title="MEXICO",lifetime (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872413
+#EXTINF:-1 tvg-id="" tvg-name="Mas Chic (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/mas_chic.png" group-title="MEXICO",Mas Chic (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869622
+#EXTINF:-1 tvg-id="" tvg-name="Mexiquince (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/mexiquense_tv.png" group-title="MEXICO",Mexiquince (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869623
+#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/mezzolive.png" group-title="MEXICO",Mezzo Live (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869624
+#EXTINF:-1 tvg-id="" tvg-name="Milenio TV (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/milenio.png" group-title="MEXICO",Milenio TV (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869625
+#EXTINF:-1 tvg-id="" tvg-name="MiMusica Regaeeton (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/MiMusicaRegaeeton.png" group-title="MEXICO",MiMusica Regaeeton (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869626
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/multimedios.png" group-title="MEXICO",Multimedios (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869627
+#EXTINF:-1 tvg-id="" tvg-name="Multipremier (MX)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multipremier.png" group-title="MEXICO",Multipremier (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872336
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/nick_jr.png" group-title="MEXICO",Nick Jr. (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869628
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/nickelodeon.png" group-title="MEXICO",Nickelodeon (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869629
+#EXTINF:-1 tvg-id="" tvg-name="Nu9ve TV (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/nue9ve.png" group-title="MEXICO",Nu9ve TV (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869630
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Network (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/paramount_channel.png" group-title="MEXICO",Paramount Network (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869631
+#EXTINF:-1 tvg-id="" tvg-name="PX Sports (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/px_sports.png" group-title="MEXICO",PX Sports (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869632
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel (MX)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/sony.png" group-title="MEXICO",Sony Channel (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872421
+#EXTINF:-1 tvg-id="" tvg-name="Space (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/space.png" group-title="MEXICO",Space (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869633
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel (MX)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/start_channel.png" group-title="MEXICO",Star Channel (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872422
+#EXTINF:-1 tvg-id="" tvg-name="Stingray dJazz (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/StingraydJazz.png" group-title="MEXICO",Stingray dJazz (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869634
+#EXTINF:-1 tvg-id="" tvg-name="Tarima (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/tarima.png" group-title="MEXICO",Tarima (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869635
+#EXTINF:-1 tvg-id="" tvg-name="TBS (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/tbs.png" group-title="MEXICO",TBS (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869636
+#EXTINF:-1 tvg-id="" tvg-name="TCM (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/tcm.png" group-title="MEXICO",TCM (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869637
+#EXTINF:-1 tvg-id="" tvg-name="TeenNick (MX)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/teen_nick.png" group-title="MEXICO",TeenNick (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/873474
+#EXTINF:-1 tvg-id="" tvg-name="TeleHit (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/telehit.png" group-title="MEXICO",TeleHit (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869638
+#EXTINF:-1 tvg-id="" tvg-name="Telenovelas (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/telenovelas.png" group-title="MEXICO",Telenovelas (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869639
+#EXTINF:-1 tvg-id="" tvg-name="Teleritmo (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/teleritmo.png" group-title="MEXICO",Teleritmo (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869640
+#EXTINF:-1 tvg-id="" tvg-name="Televisa Californias (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/televisa_californias.jpg" group-title="MEXICO",Televisa Californias (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869642
+#EXTINF:-1 tvg-id="" tvg-name="Televisa Pueblo (MX)" tvg-logo="" group-title="MEXICO",Televisa Pueblo (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869641
+#EXTINF:-1 tvg-id="" tvg-name="TLC (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/tlc.png" group-title="MEXICO",TLC (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869643
+#EXTINF:-1 tvg-id="" tvg-name="TLnovelas. (MX)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tlnovelas.png" group-title="MEXICO",TLnovelas. (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872340
+#EXTINF:-1 tvg-id="" tvg-name="TNT (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/tnt.png" group-title="MEXICO",TNT (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869644
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/tntseries.png" group-title="MEXICO",TNT Series (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869645
+#EXTINF:-1 tvg-id="" tvg-name="Tru TV (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/trutv.png" group-title="MEXICO",Tru TV (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869646
+#EXTINF:-1 tvg-id="" tvg-name="TV4 Leon Guanajuato (MX)" tvg-logo="" group-title="MEXICO",TV4 Leon Guanajuato (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869648
+#EXTINF:-1 tvg-id="" tvg-name="TV5 (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/tv5monde.png" group-title="MEXICO",TV5 (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869649
+#EXTINF:-1 tvg-id="" tvg-name="TVC (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/tvc.png" group-title="MEXICO",TVC (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869650
+#EXTINF:-1 tvg-id="" tvg-name="TVC Deportes (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/tvc_deportes.png" group-title="MEXICO",TVC Deportes (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869651
+#EXTINF:-1 tvg-id="" tvg-name="Unicable (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/unicable.png" group-title="MEXICO",Unicable (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869652
+#EXTINF:-1 tvg-id="" tvg-name="Universal Cinema (MX)" tvg-logo="" group-title="MEXICO",Universal Cinema (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/873968
+#EXTINF:-1 tvg-id="" tvg-name="Universal Comedy (MX)" tvg-logo="" group-title="MEXICO",Universal Comedy (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/873969
+#EXTINF:-1 tvg-id="" tvg-name="Universal Premier (MX)" tvg-logo="" group-title="MEXICO",Universal Premier (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/873971
+#EXTINF:-1 tvg-id="" tvg-name="Universal Reality (MX)" tvg-logo="" group-title="MEXICO",Universal Reality (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/873967
+#EXTINF:-1 tvg-id="" tvg-name="Univision (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/univision.png" group-title="MEXICO",Univision (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869653
+#EXTINF:-1 tvg-id="" tvg-name="Wanna See (MX)" tvg-logo="" group-title="MEXICO",Wanna See (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869654
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel (MX)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/warner_cahnnel.png" group-title="MEXICO",Warner Channel (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/872335
+#EXTINF:-1 tvg-id="" tvg-name="Wobi (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/wobi.png" group-title="MEXICO",Wobi (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869655
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo (MX)" tvg-logo="http://latinovodplus1.xyz/logos/MEXICO/zoomoo.png" group-title="MEXICO",ZooMoo (MX)
+http://iptvplustv.online:8000/JesusManuelSeguraMartinez/SGyPWXhf82/869656
